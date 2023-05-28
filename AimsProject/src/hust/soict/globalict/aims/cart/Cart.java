@@ -1,5 +1,6 @@
 package hust.soict.globalict.aims.cart;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -98,6 +99,8 @@ public class Cart {
 	
 	
 =======
+=======
+>>>>>>> main
 import hust.soict.globalict.aims.disc.DigitalVideoDisc;
 
 public class Cart {
@@ -206,7 +209,10 @@ public class Cart {
 	}
 
 	
+<<<<<<< HEAD
 >>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
+=======
+>>>>>>> main
 	// search 12/05
 	/*public void searchForDVDByTitle(String title) {
 	boolean check = false;
@@ -225,11 +231,15 @@ public class Cart {
 	
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	/*remove the accessor and mutator with qty
 	 * public int getQtyOrdered() {
 =======
 	public int getQtyOrdered() {
 >>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
+=======
+	public int getQtyOrdered() {
+>>>>>>> main
 		return qtyOrdered;
 	}
 	public void setQtyOrdered(int qtyOrdered) {
@@ -237,8 +247,11 @@ public class Cart {
 	}
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
+=======
+>>>>>>> main
 	public void removeDigitalViDeoDisc(DigitalVideoDisc disc) {
 	    boolean removed = false;
 	    
@@ -264,7 +277,10 @@ public class Cart {
 	        }
 	    }
 	}
+<<<<<<< HEAD
 >>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
+=======
+>>>>>>> main
 	//18/05023 search
 	public void searchForDVDbyid(int id) {
 	    boolean found = false;
@@ -329,8 +345,11 @@ public class Cart {
 		
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	*/
 =======
 >>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
+=======
+>>>>>>> main
 
 }

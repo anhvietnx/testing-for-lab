@@ -1,11 +1,16 @@
 package hust.soict.globalict.test.cart;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import hust.soict.dsai.aims.media.DigitalVideoDisc;
 import hust.soict.globalict.aims.cart.Cart;
 =======
 import hust.soict.globalict.aims.cart.Cart;
 import hust.soict.globalict.aims.disc.DigitalVideoDisc;
 >>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
+=======
+import hust.soict.globalict.aims.cart.Cart;
+import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+>>>>>>> main
 
 public class CartTest {
 	public static void main(String[] args) {
