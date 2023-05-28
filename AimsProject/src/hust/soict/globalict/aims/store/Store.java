@@ -1,4 +1,5 @@
 package hust.soict.globalict.aims.store;
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -56,6 +57,20 @@ public class Store {
 	
 	
 	/*
+=======
+import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+
+public class Store {
+	//create array to store
+	private DigitalVideoDisc[] itemsInStore;
+	private int count;
+	
+	public Store(int maxSize) {
+		itemsInStore = new DigitalVideoDisc[maxSize];
+		count = 0;
+	}
+	
+>>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
 	public void addDVD(DigitalVideoDisc dvd) {
 		// TODO Auto-generated method stub
 		if(count >= itemsInStore.length) {
@@ -89,7 +104,11 @@ public class Store {
 	
 	Lần lặp thứ nhất: dvd sẽ có giá trị của dvd1.
 	Lần lặp thứ hai: dvd sẽ có giá trị của dvd2.
+<<<<<<< HEAD
 	Lần lặp thứ ba: dvd sẽ có giá trị của dvd3.
+=======
+	Lần lặp thứ ba: dvd sẽ có giá trị của dvd3.*/
+>>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
 	public void removeDVD(DigitalVideoDisc dvd) {
 		boolean remove = false;
 		
@@ -137,5 +156,8 @@ public class Store {
 		System.out.println("");
 		
 	}
+<<<<<<< HEAD
 	*/
+=======
+>>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
 }

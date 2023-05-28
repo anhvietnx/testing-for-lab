@@ -1,5 +1,9 @@
 package hust.soict.globalict.test.store.copy;
+<<<<<<< HEAD
 import hust.soict.dsai.aims.media.DigitalVideoDisc;
+=======
+import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+>>>>>>> 0308ae49fcbde8e6c730218820471d394e741311
 import hust.soict.globalict.aims.store.Store;
 
 public class StoreTest {
